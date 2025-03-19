@@ -1,2 +1,2 @@
 fichier6.txt
-fichier modifié en ligne
+fichier modifié en ligne 
